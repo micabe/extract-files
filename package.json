@@ -28,7 +28,7 @@
     "lib",
     "!lib/test"
   ],
-  "main": "lib/index.mjs",
+  "main": "lib/main.js",
   "module": "lib/index.mjs",
   "sideEffects": false,
   "engines": {
